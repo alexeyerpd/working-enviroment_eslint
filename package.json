@@ -1,0 +1,27 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyerpd/working-enviroment_eslint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "al",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeyerpd/working-enviroment_eslint/issues"
+  },
+  "homepage": "https://github.com/alexeyerpd/working-enviroment_eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
